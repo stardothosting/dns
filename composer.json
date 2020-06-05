@@ -1,5 +1,5 @@
 {
-    "name": "react/dns",
+    "name": "stardothosting/dns",
     "description": "Async DNS resolver for ReactPHP",
     "keywords": ["dns", "dns-resolver", "ReactPHP", "async"],
     "license": "MIT",
